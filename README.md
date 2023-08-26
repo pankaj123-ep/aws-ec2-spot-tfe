@@ -1,1 +1,1 @@
-# aws-ec2-spot-tfe
+# aws-ec2-spot-tfe # daily
